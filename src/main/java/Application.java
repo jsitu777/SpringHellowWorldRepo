@@ -3,7 +3,7 @@ import com.leapcode.service.SpeakerServiceImpl;
 
 // add some test comments here.
 // Test comments...
-//jim
+//jim App
 public class Application {
     public static void main(String[] args){
         SpeakerService service = new SpeakerServiceImpl();
